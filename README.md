@@ -35,5 +35,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-H4X&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
-## ### 💭 Quote
-> "Every dataset tells a story; my goal is to discover it, visualize it, and protect it."
+## 💭 Quote
+> ✨ **Every dataset tells a story**  
+> 📊 *discover it → visualize it → protect it* 🔐
