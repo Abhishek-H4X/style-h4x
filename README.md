@@ -1,4 +1,28 @@
+💫 Hi 👋, I'm Abhishek Kushwaha
 
+🎓 A passionate BCA (Data Science) Student || Data Analyst || AI & ML Enthusiast || Aspiring Data Scientist from Nepal 🇳🇵
+
+📧 Email Me abhishekkushwaha1099@gmail.com for Collaboration, Projects, Internships, or Tech Discussions. 😊
+
+🔭 I’m currently working on: Data Science Projects, Learning Roadmap Generator, and Analytics Dashboards
+
+🌱 I’m currently learning: Data Science, Machine Learning, Deep Learning, Python, SQL, Power BI, and Data Security
+
+👯 I’m looking to collaborate on: Data Science, AI/ML, Open Source, Analytics, and Educational Technology Projects
+
+🤔 I’m looking for help with: Advanced Machine Learning, Data Engineering, MLOps, and Real-World AI Applications
+
+💬 Ask me about: Python, SQL, Power BI, Data Analytics, Machine Learning, Hackathons, and Tech Collaboration
+
+📫 How to reach me: abhishekkushwaha1099@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I connect Data with Security to transform information into intelligent, secure, and impactful solutions. 🚀
+
+🔗 I am passionate about building innovative solutions, participating in hackathons, and sharing knowledge with the tech community.
+
+🚀 Always exploring new technologies and turning data into actionable insights.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abhishek kushwaha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekkushwaha259) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhishek-kushwaha-2a1524329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekkushwaha1099@gmail.com) 
 
